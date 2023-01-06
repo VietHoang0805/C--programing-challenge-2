@@ -1,0 +1,5 @@
+0x487a08Annual interest rate: 30
+0x487a08Starting balance: 2
+0x487a08Months passed since account 1
+The amount deposited for month: 1
+0x487a08The amount withdrawn for month: 2
